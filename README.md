@@ -1,1 +1,1 @@
-# CGAN-Covid19-SyntheticImageGeneration
+# CGAN Covid19 SyntheticImageGeneration
